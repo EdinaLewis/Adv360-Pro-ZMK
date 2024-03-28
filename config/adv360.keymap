@@ -137,7 +137,7 @@
         Engram {
             bindings = <
 &trans  &trans  &trans  &trans  &trans  &trans              &trans                                      &trans  &trans                  &trans  &trans  &trans  &trans  &trans
-&trans  &kp B   &kp Y   &kp O   &kp U   &OpenParenLessThan  &trans                                      &trans  &CloseParenGreaterThan  &kp L   &kp D   &kp W   &kp U   &trans
+&trans  &kp B   &kp Y   &kp O   &kp U   &OpenParenLessThan  &trans                                      &trans  &CloseParenGreaterThan  &kp L   &kp D   &kp W   &kp V   &trans
 &trans  &kp C   &kp I   &kp E   &kp A   &CommaSemicolon     &trans  &trans  &trans      &trans  &trans  &trans  &PeriodColon            &kp H   &kp T   &kp S   &kp N   &trans
 &trans  &kp G   &kp X   &kp J   &kp K   &kp LEFT_BRACKET                    &trans      &trans                  &kp RIGHT_BRACKET       &kp R   &kp M   &kp F   &kp P   &trans
 &trans  &trans  &trans  &kp Z   &trans                      &trans  &trans  &trans      &trans  &trans  &trans                          &trans  &kp Q   &trans  &trans  &trans
